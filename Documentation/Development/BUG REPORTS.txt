@@ -1,0 +1,5 @@
+COLE T:
+
+1.) With rocket boots ON - if the player holds down the jump button before hitting the ground the animation bugs out. (very low priority).
+
+AIDAN C:
