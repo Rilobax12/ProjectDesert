@@ -1,0 +1,27 @@
+Adobe After Effects v11.0 (Windows 64) render log for project “Compass.aep”
+
+Rendering started on 27/03/2018 at 01:51:19
+
+
+  27/03/2018 01:51:19: Starting composition “CompassWithNumbersRevised01”.
+
+
+  Output To: C:\Users\Cole\Documents\GitHub\ProjectDesert\UnimportedAssets\Images\UserInterface\HUD\Textures\CompassWithNumbersRevised01.png
+  
+  27/03/2018 01:51:19: Finished composition “CompassWithNumbersRevised01”.
+
+
+
+  27/03/2018 01:51:19: Starting composition “CompassBGGolden01”.
+
+
+  Output To: C:\Users\Cole\Documents\GitHub\ProjectDesert\UnimportedAssets\Images\UserInterface\HUD\Textures\CompassBGGolden01.png
+  
+  27/03/2018 01:51:19: Finished composition “CompassBGGolden01”.
+
+
+
+  Total Time Elapsed: 0 Seconds
+
+Log closed on 27/03/2018 at 01:51:19
+
